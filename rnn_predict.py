@@ -12,11 +12,13 @@ import numpy as np
 import json
 
 from keras.preprocessing.text import tokenizer_from_json
-from keras.preprocessing.sequence import pad_sequences
+#from keras.preprocessing.sequence import pad_sequences
+from keras_preprocessing.sequence import pad_sequences
 from keras.models import load_model
 
 # Set working directory and place trained model and tokenizers here
-os.chdir('/mnt/c/RNN/')
+#os.chdir('/mnt/c/RNN/')
+os.chdir(os.getcwd())
 
 # Place text file with AA sequence to be optimized in working directory
 # Set the name of the text file here:
