@@ -2,6 +2,14 @@
 
 This is fork repo of [Codon-optimization](https://github.com/drgoulet/Codon-optimization)
 
+## citation
+
+```
+Codon Optimization Using a Recurrent Neural Network
+Dennis R. Goulet, Yongqi Yan, Palak Agrawal, Andrew B. Waight, Amanda Nga-sze Mak, and Yi Zhu
+Published Online:21 Jun 2022 https://doi.org/10.1089/cmb.2021.0458
+```
+
 # how to use
 
 I tested at python 3.10
