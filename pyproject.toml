@@ -8,7 +8,6 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
-    "biopython>=1.85",
     "click>=8.2.1",
     "numpy>=2.1.3",
     "pandas>=2.2.3",
